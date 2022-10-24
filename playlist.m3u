@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Пят-Ница
+http://m3u8rus.netlify.app/Piatnica.m3u8
+#EXTINF:-1,ТВц
+http://m3u8rus.netlify.app/TVC.m3u8
+#EXTINF:-1,1-канал HD
+http://m3u8rus.netlify.app/1KanalHD.m3u8
+#EXTINF:-1,Матч!!! Спорт!!! HD
+http://m3u8rus.netlify.app/MatchHD.m3u8
+#EXTINF:-1,спас
+http://m3u8rus.netlify.app/Spas.m3u8
+#EXTINF:-1,Рбк
+http://m3u8rus.netlify.app/RBCHD.m3u8
+#EXTINF:-1,россия 1 hd
+http://m3u8rus.netlify.app/RussiaHD.m3u8
+#EXTINF:-1,россия 24
+http://m3u8rus.netlify.app/Russia24.m3u8
+#EXTINF:-1,Нтв hD
+http://m3u8rus.netlify.app/NTVHD.m3u8
+#EXTINF:-1,Домашний
+http://m3u8rus.netlify.app/Domashni.m3u8
+#EXTINF:-1,Яен тв
+http://m3u8rus.netlify.app/RenTV.m3u8
